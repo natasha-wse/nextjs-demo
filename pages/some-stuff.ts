@@ -7,5 +7,5 @@ export {
 
   // If we would not export SomeType
   // the demo would work fine - very strange...
-  // SomeType
+  SomeType
 }
